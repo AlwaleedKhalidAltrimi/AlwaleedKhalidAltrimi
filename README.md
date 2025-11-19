@@ -1,5 +1,37 @@
-# 💫 About Me:
-##👋 Hi, I’m Alwaleed Kalid from Yemen 🇾🇪, a passionate Mobile Developer specializing in Flutter and Dart. I build modern, scalable, and maintainable applications that deliver smooth user experiences and real-world value. I’m driven by the challenge of turning ideas into functional, high-quality apps.<br><br>##🔭 Current Focus<br><br>Building cross-platform mobile apps with Flutter | Dart<br><br>Mastering Clean Architecture and advanced State Management (Cubit, Provider, Riverpod)<br><br>Integrating APIs with Dio, implementing structured models and robust error handling<br><br>##⚡ My Passions<br><br>Crafting apps that combine practical functionality with clean, maintainable code<br><br>Optimizing performance, refining architecture, and ensuring a smooth UX<br><br>Continuously learning and experimenting with new technologies<br><br>##🌱 What I’m Learning<br><br>Advanced OOP principles and scalable architectural patterns<br><br>App performance optimization and efficient rendering<br><br>Database management with SQLite, and Hive<br><br>##💡 My Motivation<br><br>I love transforming ideas into polished mobile experiences, exploring new tech stacks, and refining my skills to deliver apps that matter.
+# 💫 About Me
+
+👋 Hi, I’m **Alwaleed Kalid** from Yemen 🇾🇪, a passionate Mobile Developer specializing in **Flutter** and **Dart**. I build modern, scalable, and maintainable applications that deliver smooth user experiences and real-world value. I’m driven by the challenge of turning ideas into functional, high-quality apps.
+
+---
+
+## 🔭 Current Focus
+
+- Building cross-platform mobile apps with **Flutter** | **Dart**
+- Mastering **Clean Architecture** and advanced **State Management** (`Cubit`, `Provider`, `Riverpod`)
+- Integrating APIs with **Dio**, implementing structured models, and robust error handling
+
+---
+
+## ⚡ My Passions
+
+- Crafting apps that combine practical functionality with **clean, maintainable code**
+- Optimizing performance, refining architecture, and ensuring a smooth **UX**
+- Continuously learning and experimenting with new technologies
+
+---
+
+## 🌱 What I’m Learning
+
+- Advanced **OOP principles** and scalable architectural patterns
+- App **performance optimization** and efficient rendering
+- Database management with **SQLite** and **Hive**
+
+---
+
+## 💡 My Motivation
+
+I love transforming ideas into polished mobile experiences, exploring new tech stacks, and refining my skills to deliver apps that truly matter.
+
 
 
 ## 🌐 Socials:
@@ -8,20 +40,20 @@
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlwaleedKhalidAltrimi&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlwaleedKhalidAltrimi&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaleedKhalidAltrimi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AlwaleedKhalidAltrimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlwaleedKhalidAltrimi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaleedKhalidAltrimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlwaleedKhalidAltrimi&theme=default&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AlwaleedKhalidAltrimi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlwaleedKhalidAltrimi&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AlwaleedKhalidAltrimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlwaleedKhalidAltrimi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AlwaleedKhalidAltrimi&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
