@@ -10,7 +10,7 @@ I am a passionate Mobile Developer specializing in **Flutter** and **Dart**. I b
 ## 🔭 Current Focus
 
 - Building cross-platform mobile apps with **Flutter** | **Dart**
-- Mastering **Clean Architecture** and advanced **State Management** (`Cubit`, `Provider`, `Riverpod`)
+- Mastering **Clean Architecture** and advanced **State Management** (`Cubit`, `Provider`, `GetX`)
 - Integrating APIs with **Dio**, implementing structured models, and robust error handling
 
 ---
