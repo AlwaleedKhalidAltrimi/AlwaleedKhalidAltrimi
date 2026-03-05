@@ -1,6 +1,9 @@
 # 💫 About Me
 
-👋 Hi, I'm **Alwaleed Khalid Altrimi** from Yemen 🇾🇪. I'm currently employed as a mobile developer at **Arab Ware Dos**. I completed my bachelor's degree at **Hadhramaut University**.  
+👋 Hi, I'm **Alwaleed Khalid Altrimi** from Yemen 🇾🇪.
+I'm currently employed as a mobile developer at **[@Arab-Ware-Dos](https://github.com/Arab-Ware-Dos)**.
+I completed my bachelor's degree at **Hadhramaut University**.
+
 
 I am a passionate Mobile Developer specializing in **Flutter** and **Dart**. I build modern, scalable, and maintainable applications that deliver smooth user experiences and real-world value. I’m driven by the challenge of turning ideas into functional, high-quality apps.
 
