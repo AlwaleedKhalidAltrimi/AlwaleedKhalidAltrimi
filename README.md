@@ -73,6 +73,12 @@
 
 ---
 
+# 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=AlwaleedKhalidAltrimi&show_icons=true&theme=tokyonight)
+
+---
+
 # 🔥 GitHub Streak
 
 ![streak](https://streak-stats.demolab.com?user=AlwaleedKhalidAltrimi&theme=tokyonight)
@@ -82,6 +88,24 @@
 # 📈 Activity Graph
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaleedKhalidAltrimi&theme=tokyo-night)
+
+---
+
+# 🧠 Top Languages
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaleedKhalidAltrimi&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AlwaleedKhalidAltrimi&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+# 👀 Visitors
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlwaleedKhalidAltrimi)
 
 ---
 
