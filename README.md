@@ -20,47 +20,24 @@
 
 # 🌐 Connect With Me
 
-<p align="left" style="display: flex; gap: 14px;">
+<p align="left">
   <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/">
-    <img src="https://skillicons.dev/icons?i=linkedin"
-         style="transition: 0.3s;"
-         onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 0 8px #0A66C2)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none'" />
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 10px; filter: drop-shadow(0 0 6px #0A66C2);" />
   </a>
-
   <a href="https://www.instagram.com/wa_leed_99">
-    <img src="https://skillicons.dev/icons?i=instagram"
-         style="transition: 0.3s;"
-         onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 0 8px #E4405F)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none'" />
+    <img src="https://skillicons.dev/icons?i=instagram" style="margin-right: 10px; filter: drop-shadow(0 0 6px #E4405F);" />
   </a>
-
   <a href="mailto:alwaleedaltrimi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"
-         style="transition: 0.3s;"
-         onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 0 8px #D14836)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none'" />
+    <img src="https://skillicons.dev/icons?i=gmail" style="margin-right: 10px; filter: drop-shadow(0 0 6px #D14836);" />
   </a>
-
   <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48"
-         style="transition: 0.3s;"
-         onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 0 8px #25D366)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none'" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" style="margin-right: 10px; filter: drop-shadow(0 0 6px #25D366);" />
   </a>
-
   <a href="https://t.me/wa_leed_99">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48"
-         style="transition: 0.3s;"
-         onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 0 8px #26A5E4)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none'" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" style="margin-right: 10px; filter: drop-shadow(0 0 6px #26A5E4);" />
   </a>
-
   <a href="https://www.facebook.com/share/17XjSp5Zwg/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48"
-         style="transition: 0.3s;"
-         onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0 0 8px #1877F2)'"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none'" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" style="filter: drop-shadow(0 0 6px #1877F2);" />
   </a>
 </p>
 
