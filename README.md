@@ -15,7 +15,10 @@
 💻 Mobile Developer from **Yemen 🇾🇪**  
 📱 Specialized in **Flutter & Dart**  
 🚀 Passionate about building scalable and high-performance apps.
-
+💻 Mobile Developer from Yemen 🇾🇪
+📱 Building fast, scalable, and beautiful Flutter apps
+🚀 Focused on clean architecture, smooth UI/UX, and real-world mobile solutions
+💡 Turning ideas into high-performance mobile applications
 ---
 
 # 🌐 Connect With Me
