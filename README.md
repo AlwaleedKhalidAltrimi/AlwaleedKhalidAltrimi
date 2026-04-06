@@ -21,22 +21,22 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/wa_leed_99" style="text-decoration: none;">
+  <a href="https://www.instagram.com/wa_leed_99">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:alwaleedaltrimi@gmail.com" style="text-decoration: none;">
+  <a href="mailto:alwaleedaltrimi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0" style="text-decoration: none;">
+  <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" />
   </a>
-  <a href="https://t.me/wa_leed_99" style="text-decoration: none;">
+  <a href="https://t.me/wa_leed_99">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
   </a>
-  <a href="https://www.facebook.com/share/17XjSp5Zwg/" style="text-decoration: none;">
+  <a href="https://www.facebook.com/share/17XjSp5Zwg/">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
   </a>
 </p>
