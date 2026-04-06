@@ -79,6 +79,12 @@
 
 ---
 
+# 📈 Activity Graph
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaleedKhalidAltrimi&theme=tokyo-night)
+
+---
+
 # 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
