@@ -57,8 +57,8 @@
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
+(https://skillicons.dev/icons?i=git)
+(https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 
