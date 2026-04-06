@@ -68,20 +68,6 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Xd](https://skillicons.dev/icons?i=xd)
 
-
-### API & Documentation
-![Postman](https://skillicons.dev/icons?i=postman)
-![Swagger](https://skillicons.dev/icons?i=swagger)
-![REST API](https://skillicons.dev/icons?i=restapi)
-
-### 📋 Productivity
-![Trello](https://skillicons.dev/icons?i=trello)
-![Slack](https://skillicons.dev/icons?i=slack)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-
 ---
 
 # 📊 GitHub Stats
