@@ -33,6 +33,14 @@
   <a href="mailto:alwaleedaltrimi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
+  <!-- New -->
+  <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
+  <a href="https://t.me/wa_leed_99">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
 </p>
 
 ---
