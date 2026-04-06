@@ -103,6 +103,12 @@
 
 ---
 
+# 👀 Visitors
+
+[![](https://visitcount.itsvg.in/api?id=AlwaleedKhalidAltrimi&icon=0&color=6)](https://visitcount.itsvg.in)
+
+---
+
 # 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
