@@ -20,25 +20,32 @@
 
 # 🌐 Connect With Me
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<div style="display: flex; align-items: center; gap: 12px;">
+  
+  <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="display: block;" />
   </a>
-  <a href="https://www.instagram.com/wa_leed_99">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+
+  <a href="https://www.instagram.com/wa_leed_99" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" style="display: block;" />
   </a>
-  <a href="mailto:alwaleedaltrimi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+
+  <a href="mailto:alwaleedaltrimi@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" style="display: block;" />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" />
+
+  <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" style="display: block;" />
   </a>
-  <a href="https://t.me/wa_leed_99">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
+
+  <a href="https://t.me/wa_leed_99" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" style="display: block;" />
   </a>
-  <a href="https://www.facebook.com/share/17XjSp5Zwg/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
+
+  <a href="https://www.facebook.com/share/17XjSp5Zwg/" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" style="display: block;" />
   </a>
+
 </div>
 
 ---
