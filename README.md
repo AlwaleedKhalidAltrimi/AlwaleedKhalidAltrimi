@@ -105,7 +105,7 @@
 
 # 👀 Visitors
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlwaleedKhalidAltrimi)
+![Visitor Count](https://img.shields.io/badge/visitors-0-blue?style=flat-square&logo=github)
 
 ---
 
