@@ -47,9 +47,7 @@
 
 ### Mobile
 
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Dart](https://skillicons.dev/icons?i=flutter)
-[![My Skills](https://skillicons.dev/icons?i=flutter,flutter)]
+![My Skills](https://skillicons.dev/icons?i=flutter,dart)
 
 ### Backend / Services
 
