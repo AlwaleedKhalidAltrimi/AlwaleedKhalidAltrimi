@@ -65,6 +65,7 @@
 ### Design
 
 ![Figma](https://skillicons.dev/icons?i=figma)
+![Xd](https://skillicons.dev/icons?i=xd)
 
 ---
 
