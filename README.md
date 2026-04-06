@@ -20,7 +20,7 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -39,7 +39,7 @@
   <a href="https://www.facebook.com/share/17XjSp5Zwg/">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
   </a>
-</p>
+</div>
 
 ---
 
