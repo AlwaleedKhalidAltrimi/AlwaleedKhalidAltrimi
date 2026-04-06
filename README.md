@@ -41,11 +41,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![Linkedin](https://www.linkedin.com/in/alwaleed-khalid-519752318/)](https://skillicons.dev/icons?i=linkedin))
+[![Instagram](https://www.instagram.com/wa_leed_99)]([https://skillicons.dev](https://skillicons.dev/icons?i=instagram))
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 
 # 💻 Tech Stack
