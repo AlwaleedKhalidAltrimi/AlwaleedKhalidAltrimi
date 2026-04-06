@@ -47,13 +47,14 @@
 
 ### Mobile
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+
+![Dart](https://skillicons.dev/icons?i=dart)
 
 ### Backend / Services
 
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Tools
 
@@ -61,13 +62,11 @@
 ![Github](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Design
 
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Xd](https://skillicons.dev/icons?i=xd)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
