@@ -20,13 +20,20 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alwaleed-khalid-519752318/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/wa_leed_99)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/17XjSp5Zwg/)
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:alwaleedaltrimi@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/wa_leed_99">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.facebook.com/share/17XjSp5Zwg/">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="mailto:alwaleedaltrimi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
