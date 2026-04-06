@@ -23,17 +23,6 @@
     outline: none;
     box-shadow: none;
   }
-
-  .social-icons {
-    display: flex;
-    gap: 20px; 
-    align-items: center;
-  }
-
-  .social-icons img {
-    width: 48px;
-    height: 48px;
-  }
 </style>
 
 <h1>🌐 Connect With Me</h1>
