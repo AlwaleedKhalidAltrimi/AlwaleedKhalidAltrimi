@@ -19,10 +19,10 @@
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/" style="margin-right: 80px;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/wa_leed_99" style="margin-right: 20px;">
+  <a href="https://www.instagram.com/wa_leed_99" style="margin-right: 80px;">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:alwaleedaltrimi@gmail.com" style="margin-right: 20px;">
