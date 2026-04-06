@@ -59,6 +59,7 @@
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 
