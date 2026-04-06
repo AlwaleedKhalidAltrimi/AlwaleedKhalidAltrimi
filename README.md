@@ -70,47 +70,9 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AlwaleedKhalidAltrimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlwaleedKhalidAltrimi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaleedKhalidAltrimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 # 🔥 GitHub Streak
 
 ![streak](https://streak-stats.demolab.com?user=AlwaleedKhalidAltrimi&theme=tokyonight)
-
----
-
-# 📈 Activity Graph
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaleedKhalidAltrimi&theme=tokyo-night)
-
----
-
-# 🧠 Top Languages
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaleedKhalidAltrimi&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AlwaleedKhalidAltrimi&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/AlwaleedKhalidAltrimi/AlwaleedKhalidAltrimi/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Visitors
-
-![](https://visitcount.itsvg.in/api?id=AlwaleedKhalidAltrimi&icon=5&color=6)
 
 ---
 
