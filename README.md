@@ -18,26 +18,44 @@
 
 ---
 
-# 🌐 Connect With Me
+<style>
+  a:focus, a:active {
+    outline: none;
+    box-shadow: none;
+  }
 
-<p align="left">
+  .social-icons {
+    display: flex;
+    gap: 20px; 
+    align-items: center;
+  }
+
+  .social-icons img {
+    width: 48px;
+    height: 48px;
+  }
+</style>
+
+<h1>🌐 Connect With Me</h1>
+
+<p class="social-icons">
   <a href="https://www.linkedin.com/in/alwaleed-khalid-519752318/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/wa_leed_99">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="mailto:alwaleedaltrimi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" />
   </a>
   <a href="https://t.me/wa_leed_99">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" />
   </a>
   <a href="https://www.facebook.com/share/17XjSp5Zwg/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" />
   </a>
 </p>
 
