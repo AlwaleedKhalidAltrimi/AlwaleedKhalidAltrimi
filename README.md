@@ -23,10 +23,17 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alwaleed-khalid-519752318/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/wa_leed_99)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alwaleedaltrimi@gmail.com)
-[![WhatsApp](https://cdn.simpleicons.org/whatsapp/25D366)](https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0)
-[![Telegram](https://cdn.simpleicons.org/telegram/26A5E4)](https://t.me/wa_leed_99)
-[![Facebook](https://cdn.simpleicons.org/facebook/1877F2)](https://www.facebook.com/share/17XjSp5Zwg/)
-
+<p align="left">
+<a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" />
+  </a>
+  <a href="https://t.me/wa_leed_99">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
+  </a>
+  <a href="https://www.facebook.com/share/17XjSp5Zwg/">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
+  </a>
+</p>
 ---
 
 # 💻 Tech Stack
