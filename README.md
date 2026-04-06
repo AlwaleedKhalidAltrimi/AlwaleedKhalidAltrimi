@@ -48,7 +48,6 @@
 ### Mobile
 
 ![Flutter](https://skillicons.dev/icons?i=flutter)
-
 ![Dart](https://skillicons.dev/icons?i=dart)
 
 ### Backend / Services
