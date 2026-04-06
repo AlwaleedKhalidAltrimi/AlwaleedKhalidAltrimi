@@ -30,8 +30,6 @@
   <a href="mailto:alwaleedaltrimi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
-  <!-- البدائل -->
   <a href="https://api.whatsapp.com/send/?phone=967772146758&text&type=phone_number&app_absent=0">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" />
   </a>
