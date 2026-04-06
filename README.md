@@ -103,12 +103,6 @@
 
 ---
 
-# 👀 Visitors
-
-![Visitor Count](https://img.shields.io/badge/visitors-0-blue?style=flat-square&logo=github)
-
----
-
 # 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
